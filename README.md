@@ -1,4 +1,4 @@
-![logo](https://github.com/adityadeshlahre/adityadeshlahre/blob/master/Aditya's%20ghithub.gif)
+![logo](https://github.com/adityadeshlahre/adityadeshlahre/blob/master/github.gif)
 <h1 align="center">Hi 👋, I'm Aditya Deshlahre</h1>
 <h3 align="center">Knowledge is a wealth that cannot be stolen; it will grow when you try to give it away.</h3>
 
