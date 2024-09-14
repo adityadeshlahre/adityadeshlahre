@@ -1,10 +1,9 @@
-<center>
 <table>
 <tr>
 <td>
 <p align="center">
 <samp>
-Focusing on building strong <strong>Producst & Project</strong> while being a <strong>Developer</strong> who quickly debugs and ships MVPs(Minimum Viable Products) fast!
+Focusing on building strong <strong>Products & Projects</strong> while being a <strong>Developer</strong> who quickly debugs and ships MVPs(Minimum Viable Products) fast!
 <center>
 
 <a href="https://adityadeshlahre.github.io">Website</a> .
@@ -19,4 +18,3 @@ Focusing on building strong <strong>Producst & Project</strong> while being a <s
 </p>
 </tr>
 </table>
-</center>
