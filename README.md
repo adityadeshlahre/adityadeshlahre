@@ -14,5 +14,8 @@ Focusing on building strong <strong>Products & Projects</strong> while being a <
 </samp>
 
 </p>
+
+> :memo: **Resume CV** [VIEW-HERE](https://adityadeshlahre.github.io/resume/resume.pdf)
+
 </tr>
 </table>
