@@ -14,8 +14,13 @@ Focusing on building strong <strong>Products & Projects</strong> while being a <
 </samp>
 
 </p>
-
-> :memo: **Resume CV** [VIEW-HERE](https://adityadeshlahre.github.io/resume/resume.pdf)
-
 </tr>
 </table>
+
+> :memo: **Resume / Curriculum Vitae(CV)** [VIEW-HERE](https://adityadeshlahre.github.io/resume/resume.pdf)
+
+> :memo: **Drivce [Resume / Curriculum Vitae(CV)]** [DRIVE-LINK](https://drive.google.com/file/d/1-M7WWmBnlxLiLjfzRqdozDAlf7O1iOFO/view)
+
+> :green_apple: **Deployed Projects** [HERE](https://adityadeshlahre.github.io/projects)
+
+> :dvd: **Remix Starter Kit** [LIVE](https://remix-start.onrender.com)
