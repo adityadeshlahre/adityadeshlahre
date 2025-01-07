@@ -19,8 +19,14 @@ Focusing on building strong <strong>Products & Projects</strong> while being a <
 
 > :memo: **Resume / Curriculum Vitae(CV)** [VIEW-HERE](https://adityadeshlahre.github.io/resume/resume.pdf)
 
-> :memo: **Drivce [Resume / Curriculum Vitae(CV)]** [DRIVE-LINK](https://drive.google.com/file/d/1-M7WWmBnlxLiLjfzRqdozDAlf7O1iOFO/view)
+> :page_with_curl: **GDrive Link [Resume / CV ]** [LINK](https://drive.google.com/file/d/1-M7WWmBnlxLiLjfzRqdozDAlf7O1iOFO/view)
 
 > :green_apple: **Deployed Projects** [HERE](https://adityadeshlahre.github.io/projects)
 
 > :dvd: **Remix Starter Kit** [LIVE](https://remix-start.onrender.com)
+
+> :bulb: **NextJs Starter Kit** [WEB](https://next-start-web.onrender.com) [DOCS](https://next-start-docs.onrender.com)
+
+> :minidisc: **Quick Start : ReactJS & Node/Express** [WEB](https://quick-start-web.onrender.com) [SERVER](https://quick-start-server.onrender.com)
+
+> :iphone: **Native Start : ReactNative Starter Kit** [REPO-LINK](https://github.com/adityadeshlahre/native-start)
