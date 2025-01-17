@@ -21,6 +21,8 @@ Focusing on building strong <strong>Products & Projects</strong> while being a <
 
 > :page_with_curl: **GDrive Link [Resume / CV ]** [LINK](https://drive.google.com/file/d/1-M7WWmBnlxLiLjfzRqdozDAlf7O1iOFO/view)
 
+> :video_game: **baige piao : WS Game** [Live](https://keno-web.onrender.com)
+
 > :green_apple: **Deployed Projects** [HERE](https://adityadeshlahre.github.io/projects)
 
 > :dvd: **Remix Starter Kit** [LIVE](https://remix-start.onrender.com)
@@ -30,3 +32,5 @@ Focusing on building strong <strong>Products & Projects</strong> while being a <
 > :minidisc: **Quick Start : ReactJS & Node/Express** [WEB](https://quick-start-web.onrender.com) [SERVER](https://quick-start-server.onrender.com)
 
 > :iphone: **Native Start : ReactNative Starter Kit** [REPO-LINK](https://github.com/adityadeshlahre/native-start)
+
+> Book a meeting/call :phone: [Here](https://cal.com/adityadeshlahre)
