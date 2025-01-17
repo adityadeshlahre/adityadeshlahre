@@ -33,4 +33,4 @@ Focusing on building strong <strong>Products & Projects</strong> while being a <
 
 > :iphone: **Native Start : ReactNative Starter Kit** [REPO-LINK](https://github.com/adityadeshlahre/native-start)
 
-> Book a meeting/call :phone: [Here](https://cal.com/adityadeshlahre)
+> :spiral_calendar: Book a meeting/call :phone: [Here](https://cal.com/adityadeshlahre)
