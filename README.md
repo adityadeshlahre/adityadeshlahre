@@ -21,6 +21,8 @@ Focusing on building strong <strong>Products & Projects</strong> while being a <
 
 > :page_with_curl: **GDrive Link [Resume / CV ]** [LINK](https://drive.google.com/file/d/1-M7WWmBnlxLiLjfzRqdozDAlf7O1iOFO/view)
 
+> :sunrise: **TanStack Start Starter Kit** [LIVE](https://tan-stack-start-full.onrender.com)
+
 > :video_game: **baige piao : WS Game** [Live](https://keno-web.onrender.com)
 
 > :green_apple: **Deployed Projects** [HERE](https://adityadeshlahre.github.io/projects)
