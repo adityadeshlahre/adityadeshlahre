@@ -19,7 +19,7 @@ Focusing on building strong <strong>Products & Projects</strong> while being a <
 
 > :memo: **Resume / Curriculum Vitae(CV)** [VIEW-HERE](https://adityadeshlahre.github.io/resume/resume.pdf)
 
-> :page_with_curl: **GDrive Link [Resume / CV ]** [LINK](https://drive.google.com/file/d/1-M7WWmBnlxLiLjfzRqdozDAlf7O1iOFO/view)
+> :page_with_curl: **GDrive Link [Resume / CV ]** [LINK](https://drive.google.com/file/d/1OVdi_4yPk0xKglRnTQKG6sLKo9Zq7QRb/view)
 
 > :sunrise: **TanStack Start Starter Kit** [LIVE](https://tan-stack-start-full.onrender.com)
 
