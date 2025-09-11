@@ -3,7 +3,7 @@
 <td>
 <p>
 <samp>
-Focusing on building strong <strong>Products & Projects</strong> while being a <strong>Developer</strong> who quickly debugs and ships MVPs(Minimum Viable Products) fast!
+Building <strong>products and projects</strong> while rapidly debugging and shipping <strong>MVPs</strong> as a fast-moving developer.
 
 <a href="https://adityadeshlahre.github.io">Website</a> .
 <a href="https://twitter.com/adityadeshlahre">Twitter</a> .
@@ -21,18 +21,18 @@ Focusing on building strong <strong>Products & Projects</strong> while being a <
 
 > :page_with_curl: **GDrive Link [Resume / CV ]** [LINK](https://drive.google.com/file/d/1OVdi_4yPk0xKglRnTQKG6sLKo9Zq7QRb/view)
 
-> :sunrise: **TanStack Start Starter Kit** [LIVE](https://tan-stack-start-full.onrender.com)
+<!-- > :sunrise: **TanStack Start Starter Kit** [LIVE](https://tan-stack-start-full.onrender.com) -->
 
 > :video_game: **baige piao : WS Game** [Live](https://keno-web.onrender.com)
 
 > :green_apple: **Deployed Projects** [HERE](https://adityadeshlahre.github.io/projects)
 
-> :dvd: **Remix Starter Kit** [LIVE](https://remix-start.onrender.com)
+<!-- > :dvd: **Remix Starter Kit** [LIVE](https://remix-start.onrender.com) -->
 
-> :bulb: **NextJs Starter Kit** [WEB](https://next-start-web.onrender.com) [DOCS](https://next-start-docs.onrender.com)
+<!-- > :bulb: **NextJs Starter Kit** [WEB](https://next-start-web.onrender.com) [DOCS](https://next-start-docs.onrender.com) -->
 
-> :minidisc: **Quick Start : ReactJS & Node/Express** [WEB](https://quick-start-web.onrender.com) [SERVER](https://quick-start-server.onrender.com)
+<!-- > :minidisc: **Quick Start : ReactJS & Node/Express** [WEB](https://quick-start-web.onrender.com) [SERVER](https://quick-start-server.onrender.com) -->
 
-> :iphone: **Native Start : ReactNative Starter Kit** [REPO-LINK](https://github.com/adityadeshlahre/native-start)
+<!-- > :iphone: **Native Start : ReactNative Starter Kit** [REPO-LINK](https://github.com/adityadeshlahre/native-start) -->
 
 > :spiral_calendar: Book a meeting/call :phone: [Here](https://cal.com/adityadeshlahre)
