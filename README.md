@@ -3,7 +3,7 @@
 <td>
 <p>
 <samp>
-Building <strong>products and projects</strong> while rapidly debugging and shipping <strong>MVPs</strong> as a fast-moving developer.
+A <strong>fast-moving</strong> developer!
 
 <a href="https://adityadeshlahre.github.io">Website</a> .
 <a href="https://twitter.com/adityadeshlahre">Twitter</a> .
